@@ -14,8 +14,10 @@ import PatientSampler from './components/PatientSampler.vue'
 </template>
 
 <style scoped>
-.split {
-  display: flex;
+@media only screen and (min-width: 700px) {
+  .split {
+    display: flex;
+  }
 }
 
 .split-inside {
