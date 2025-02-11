@@ -19,13 +19,9 @@ import VisitsSampler from './components/VisitsSampler.vue'
   .split {
     display: flex;
   }
-}
 
-.split-inside {
-  margin: 1rem;
-}
-
-header {
-  line-height: 1.5;
+  .split-inside {
+    margin: 1rem;
+  }
 }
 </style>

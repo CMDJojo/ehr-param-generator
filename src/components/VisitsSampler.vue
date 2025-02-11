@@ -27,6 +27,7 @@ function deleteAll() {
     setTimeout(() => (deleteMsg.value = defDeleteMsg), 5000)
   } else {
     visits.value = []
+    deleteMsg.value = defDeleteMsg
   }
 }
 </script>
