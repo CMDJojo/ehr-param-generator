@@ -7,7 +7,7 @@ const michael: Staff = {
   age: 62,
   occupation: 'specialist',
   description:
-    'Mikael´s documentation style is brief and his documentation mostly focuses on clinical findings. His level of medical competence is generally high. He takes special interest in psychiatric disorders. ',
+    "Mikael's documentation style is brief and his documentation mostly focuses on clinical findings. His level of medical competence is generally high. He takes special interest in psychiatric disorders. ",
 }
 
 const sara: Staff = {
@@ -23,7 +23,7 @@ const johan: Staff = {
   age: 37,
   occupation: 'resident',
   description:
-    'Johan´s documentation style is moderate. His level of medical competence varies, he is effective but at the cost of sometimes being sloppy. His threshold for referring patients to other specialists is low.',
+    "Johan's documentation style is moderate. His level of medical competence varies, he is effective but at the cost of sometimes being sloppy. His threshold for referring patients to other specialists is low.",
 }
 
 const mariam: Staff = {
@@ -31,7 +31,7 @@ const mariam: Staff = {
   age: 31,
   occupation: 'intern physician',
   description:
-    'Mariam´s documentation style is detailed with great focus on anamnestic information. Her level of medical competence is moderate but like all intern physicians she has limited knowledge in some areas, especially in cardiology and orthopedics.',
+    "Mariam's documentation style is detailed with great focus on anamnestic information. Her level of medical competence is moderate but like all intern physicians she has limited knowledge in some areas, especially in cardiology and orthopedics.",
 }
 
 export const staffDistribution: CustomDiscreteDistribution<Staff> =
