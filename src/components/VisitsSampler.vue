@@ -46,15 +46,12 @@ function deleteAll() {
     />
     <div class="buttons">
       <button @click="newVisit">&plus; Add visit</button>
-      <button @click="deleteAll" class="delete">&minus; {{ deleteMsg }}</button>
+      <button @click="deleteAll" class="secondary">&minus; {{ deleteMsg }}</button>
     </div>
   </template>
 </template>
 
 <style scoped>
-.delete {
-  background: red;
-}
 .buttons {
   display: flex;
   justify-content: space-between;
