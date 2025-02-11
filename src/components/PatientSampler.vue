@@ -14,6 +14,7 @@ function newPatient() {
 </script>
 
 <template>
+  <h2>Patient</h2>
   <article v-if="patient">
     <header>
       {{ patient.name }}

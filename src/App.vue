@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import PatientSampler from './components/PatientSampler.vue'
+import VisitsSampler from './components/VisitsSampler.vue'
 </script>
 
 <template>
@@ -8,7 +9,7 @@ import PatientSampler from './components/PatientSampler.vue'
       <PatientSampler />
     </div>
     <div class="container split-inside">
-      <PatientSampler />
+      <VisitsSampler />
     </div>
   </main>
 </template>

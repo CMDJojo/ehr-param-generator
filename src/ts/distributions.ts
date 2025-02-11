@@ -1,7 +1,7 @@
 import { CustomDiscreteDistribution } from './sample'
 import { type Gender } from './types'
 
-export const genderDistribution: CustomDiscreteDistribution<'Male' | 'Female'> =
+export const genderDistribution: CustomDiscreteDistribution<Gender> =
   CustomDiscreteDistribution.fromPmf([
     { probMass: 0.503, elem: 'Male' },
     { probMass: 0.497, elem: 'Female' },
