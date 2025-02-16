@@ -10,7 +10,8 @@ const displayTable = ref(true)
 
 <template>
   <p>
-    This patient, {{ patient.name }}, is a {{ patient.age }} years old
+    This patient, {{ patient.name }}, is a {{ patient.age }}
+    {{ patient.age === 1 ? 'year old' : 'years old' }}
     {{ ifGender(patient.gender, 'man', 'woman') }}.
     {{ ifGender(patient.gender, 'His', 'Her') }} first visit was
     {{ patient.firstVisitDate.toDateString() }}.
