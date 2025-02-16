@@ -121,6 +121,10 @@ export class Visits {
     }
     throw new Error(`Year ${year} out of range (2020-2024)`)
   }
+
+  sum(): number {
+    return this.year2020 + this.year2021 + this.year2022 + this.year2023 + this.year2024
+  }
 }
 
 function formatName(name: string): string {

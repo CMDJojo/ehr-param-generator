@@ -73,6 +73,8 @@ export class CustomDiscreteDistribution<A> {
         end = mid - 1
       }
     }
-    throw new Error(`Sample failed (u=${u})`)
+    console.error(`Sample failed (u=${u})`)
+    console.error('Defaulting to first element')
+    return this.cdf[0].elem
   }
 }

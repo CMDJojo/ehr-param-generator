@@ -9,21 +9,20 @@ const displayTable = ref(true)
 </script>
 
 <template>
-  This patient, {{ patient.name }}, is a {{ ifGender(patient.gender, 'man', 'woman') }} which is
-  {{ patient.age }} years old. {{ ifGender(patient.gender, 'His', 'Her') }} first visit was
-  {{ patient.firstVisitDate.toDateString() }}.
+  <p>
+    This patient, {{ patient.name }}, is a {{ ifGender(patient.gender, 'man', 'woman') }} who is
+    {{ patient.age }} years old. {{ ifGender(patient.gender, 'His', 'Her') }} first visit was
+    {{ patient.firstVisitDate.toDateString() }}.
+  </p>
 
-  <br />
-  <br />
-
-  Number of visits:
+  <p>Number of visits:</p>
   <table v-if="displayTable" class="styled">
     <thead>
       <tr class="styled">
         <th class="nostyle"></th>
         <th class="styled">Physicians</th>
         <th class="styled">Nurses</th>
-        <th class="styled">Assistants</th>
+        <th class="styled">Assistant nurses</th>
       </tr>
     </thead>
     <tbody>
@@ -32,6 +31,12 @@ const displayTable = ref(true)
         <td class="styled">{{ patient.phycVisits.getYear(year) }}</td>
         <td class="styled">{{ patient.nurseVisits.getYear(year) }}</td>
         <td class="styled">{{ patient.assistantVisits.getYear(year) }}</td>
+      </tr>
+      <tr class="totals-row">
+        <th class="styled">Total</th>
+        <th class="styled">{{ patient.phycVisits.sum() }}</th>
+        <th class="styled">{{ patient.nurseVisits.sum() }}</th>
+        <th class="styled">{{ patient.assistantVisits.sum() }}</th>
       </tr>
     </tbody>
   </table>
@@ -46,7 +51,19 @@ const displayTable = ref(true)
           <strong>{{ patient.nurseVisits.getYear(year) }}</strong> nurse,
         </td>
         <td>
-          <strong>{{ patient.assistantVisits.getYear(year) }}</strong> assistant visits.
+          <strong>{{ patient.assistantVisits.getYear(year) }}</strong> assistant nurse visits.
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Total:</strong></td>
+        <td>
+          <strong>{{ patient.phycVisits.sum() }}</strong> physician,
+        </td>
+        <td>
+          <strong>{{ patient.nurseVisits.sum() }}</strong> nurse,
+        </td>
+        <td>
+          <strong>{{ patient.assistantVisits.sum() }}</strong> assistant nurse visits.
         </td>
       </tr>
     </tbody>

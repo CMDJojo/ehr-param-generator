@@ -1,52 +1,47 @@
 <script setup lang="ts">
-import { ref, type Ref } from 'vue'
-import { Prng } from '@/ts/prng.ts'
+import { ref } from 'vue'
 import { Visit } from '@/ts/visit.ts'
 import VisitSampler from '@/components/VisitSampler.vue'
 
-const visits: Ref<Visit[]> = ref([])
+defineProps<{
+  visits: Visit[]
+}>()
 
 const defDeleteMsg = 'Delete all visits'
 const deleteMsg = ref(defDeleteMsg)
 
-function newVisit() {
-  const prng = Prng.randomSeed()
-  const visit = new Visit(prng)
-  visits.value.push(visit)
-}
-
-function regenerate(index: number) {
-  const prng = Prng.randomSeed()
-  const visit = new Visit(prng)
-  visits.value[index] = visit
-}
+const emit = defineEmits<{
+  (e: 'regenerate', index: number): void
+  (e: 'deleteAll'): void
+  (e: 'newVisit'): void
+}>()
 
 function deleteAll() {
   if (deleteMsg.value === defDeleteMsg) {
     deleteMsg.value = 'Really delete all?'
     setTimeout(() => (deleteMsg.value = defDeleteMsg), 5000)
   } else {
-    visits.value = []
+    emit('deleteAll')
     deleteMsg.value = defDeleteMsg
   }
 }
 </script>
 
 <template>
-  <h2>Visits</h2>
+  <h2>Initial Visits</h2>
 
   <article v-if="visits.length === 0">
-    No visits yet. <button @click="newVisit">Add a visit!</button>
+    No visits yet. <button @click="$emit('newVisit')">Add a visit!</button>
   </article>
   <template v-else>
     <VisitSampler
       v-for="(visit, idx) in visits"
       :key="idx"
-      @regenerate="regenerate(idx)"
       :visit="visit"
+      @regenerate="$emit('regenerate', idx)"
     />
     <div class="buttons">
-      <button @click="newVisit">&plus; Add visit</button>
+      <button @click="$emit('newVisit')">&plus; Add visit</button>
       <button @click="deleteAll" class="secondary">&minus; {{ deleteMsg }}</button>
     </div>
   </template>
