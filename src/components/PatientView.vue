@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { Patient } from '@/ts/patient'
 import { ifGender } from '@/ts/types'
-import { ref, defineProps } from 'vue'
+import { ref } from 'vue'
 
 defineProps<{ patient: Patient }>()
 
@@ -10,8 +10,9 @@ const displayTable = ref(true)
 
 <template>
   <p>
-    This patient, {{ patient.name }}, is a {{ ifGender(patient.gender, 'man', 'woman') }} who is
-    {{ patient.age }} years old. {{ ifGender(patient.gender, 'His', 'Her') }} first visit was
+    This patient, {{ patient.name }}, is a {{ patient.age }} years old
+    {{ ifGender(patient.gender, 'man', 'woman') }}.
+    {{ ifGender(patient.gender, 'His', 'Her') }} first visit was
     {{ patient.firstVisitDate.toDateString() }}.
   </p>
 
