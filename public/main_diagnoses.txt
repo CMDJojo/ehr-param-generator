@@ -1,0 +1,1154 @@
+// Detta är en "frekvensfil", på varannan rad skriver du diagnostext och på varannan rad skriver
+// du frekvensen. Rader som börjar med // samt tomma rader exkluderas
+// Notera: I109 (Ess. Hypertoni) samt E785 (Hyperlipidemi, ospec) har frekvensen reducerad med
+// 80%.
+I109 - Essentiell hypertoni (högt blodtryck utan känd orsak)
+62808
+E785 - Hyperlipidemi, ospecificerad
+22819
+R529 - Smärta eller värk, ospecificerad
+108473
+J069 - Akut övre luftvägsinfektion, ospecificerad
+86898
+F419 - Ångesttillstånd, ospecificerat
+85532
+G479 - Sömnstörning, ospecificerad
+80049
+R104X - Buksmärtor UNS
+71495
+R539 - Sjukdomskänsla och trötthet
+69368
+E119 - Diabetes mellitus typ 2-Utan komplikationer
+69156
+F412 - Blandade ångest- och depressionstillstånd
+63976
+E039 - Hypotyreos, ospecificerad
+62511
+R059 - Hosta UNS
+60470
+J459 - Astma, ospecificerad
+58413
+Z760 - Förnyelse av recept
+44290
+I489 - Förmaksflimmer och förmaksfladder
+40578
+K590 - Obstipation (förstoppning)
+39870
+E669 - Fetma, ospecificerad
+38107
+M549 - Ryggvärk, ospecificerad
+37452
+I259 - Kronisk ischemisk hjärtsjukdom, ospecificerad
+36243
+R429 - Yrsel och svindel
+33337
+N409 - Prostataförstoring
+30410
+R238 - Andra och ospecificerade hudförändringar
+30311
+M179 - Gonartros, ospecificerad
+30028
+R519 - Huvudvärk
+29166
+F519 - Icke organisk sömnstörning, ospecificerad
+29138
+J449 - Kroniskt obstruktiv lungsjukdom, ospecificerad
+27603
+F438A - Utmattningssyndrom
+27189
+R060 - Dyspné
+26981
+M791 - Myalgi
+25930
+H660 - Akut varig mellanöreinflammation (akut mediaotit)
+25484
+F329 - Depressiv episod, ospecificerad
+25231
+I509 - Hjärtinsufficiens, ospecificerad
+24919
+N300 - Akut cystit (urinvägsinfektion lokaliserad till urinblåsan)
+24430
+M545 - Lumbago
+22885
+R219 - Ospecificerade hudutslag
+22715
+F439 - Reaktion på svår stress, ospecificerad
+22506
+K219 - Gastroesofagal refluxsjukdom utan esofagit
+22278
+H609 - Extern otit, ospecificerad
+21869
+T784 - Allergi UNS
+21107
+J209 - Akut bronkit, ospecificerad
+20520
+M544 - Lumbago med ischias
+20414
+H919 - Hörselnedsättning och dövhet, ospecificerad
+20318
+R002 - Hjärtklappning
+19674
+Z001 - Rutinmässig hälsoundersökning av barn utan besvär eller utan att diagnos registrerats
+19156
+D649 - Anemi, ospecificerad
+19065
+B349 - Virusinfektion, ospecificerad
+18982
+R229 - Lokaliserad svullnad eller knöl, ospecificerad
+18703
+F339 - Recidiverande depression, ospecificerad
+18672
+I480 - Paroxysmalt förmaksflimmer
+17967
+R074 - Bröstsmärtor, ospecificerade
+17854
+M796H - Smärta ospecifik i fotled/fot
+17833
+R509 - Feber, ospecificerad
+17383
+E660 - Fetma orsakad av kaloriöverskott
+16995
+K309 - Dyspepsi
+16881
+D509 - Järnbristanemi, ospecificerad
+16813
+J189 - Pneumoni, ospecificerad
+16530
+G439 - Migrän, ospecificerad
+16325
+F411 - Generaliserat ångestsyndrom
+16155
+M542 - Cervikalgi
+15997
+F430 - Akut stressreaktion
+15615
+M353 - Polymyalgia reumatica
+15539
+I252 - Gammal hjärtinfarkt
+15282
+H612 - Vaxpropp
+14898
+M255G - Ledvärk UNS i knäled
+14706
+F321 - Medelsvår depressiv episod
+14678
+N183 - Kronisk njursvikt, stadium 3
+14584
+L829 - Seborroisk keratos
+14056
+E782 - Blandad hyperlipidemi
+14003
+N951 - Tillstånd i samband med klimakteriet
+13853
+L309 - Dermatit, ospecificerad
+13672
+F900B - ADHD
+13590
+I679 - Cerebrovaskulär sjukdom, ospecificerad
+13536
+N952 - Atrofisk vaginit efter menopausen
+13529
+R391 - Andra miktionssvårigheter
+13201
+L089 - Lokal infektion i hud och underhud, ospecificerad
+13201
+K297 - Gastrit, ospecificerad
+12962
+M819 - Osteoporos, ospecificerad
+12824
+R600C - Underbensödem UNS
+12756
+L209 - Atopiskt eksem, ospecificerat
+12618
+Z719 - Rådgivning, ospecificerad
+12338
+L298D - Lokaliserad klåda
+12299
+N390 - Urinvägsinfektion, utan angiven lokalisation
+12269
+M796G - Smärta ospecifik i knäled/underben
+12197
+L570 - Aktinisk keratos
+12037
+M797 - Fibromyalgi
+12000
+F431 - Posttraumatiskt stressyndrom (PTSD)
+11788
+G473 - Sömnapnésyndrom
+11780
+R030 - Förhöjt blodtryck utan hypertonidiagnos
+11748
+R194 - Förändrade avföringsvanor
+11704
+G442 - Spänningshuvudvärk
+11673
+M169 - Koxartros, ospecificerad
+11567
+K649 - Hemorrojder, ospecificerade
+11487
+E780 - Isolerad hyperkolesterolemi
+11466
+E539 - B-vitaminbrist, ospecificerad
+11297
+I482 - Kroniskt förmaksflimmer
+11290
+F410 - Paniksyndrom [episodisk paroxysmal ångest]
+11183
+M796D - Smärta ospecifik i handled/hand
+11178
+M109 - Gikt, ospecificerad
+10955
+F039 - Ospecificerad demens
+10795
+J009 - Akut nasofaryngit (förkylning)
+10747
+M480 - Spinal stenos
+10744
+R300 - Dysuri (smärtsam miktion)
+10646
+E118 - Diabetes mellitus typ 2-Med ospecificerade komplikationer
+10635
+J301 - Allergisk rinit orsakad av pollen
+10542
+M754 - Impingement syndrome i skulderled
+10410
+M199 - Artros, ospecificerad
+10336
+H920 - Otalgi (öronvärk)
+10319
+A692 - Infektion orsakad av Borrelia burgdorferi
+10210
+E113 - Diabetes mellitus typ 2-Med ögonkomplikationer
+10126
+N189 - Kronisk njursvikt, ospecificerad
+9916
+F172 - Tobaksberoende
+9875
+M255 - Ledvärk
+9853
+D519 - B12-bristanemi, ospecificerad
+9815
+R119A - Illamående
+9684
+L984A - Hudsår UNS
+9616
+K591 - Funktionell diarré
+9613
+Z711 - Person med befarad sjukdom där ingen diagnos ställs
+9503
+G470 - Insomni (insomningsstörningar och avkortad nattsömn)
+9427
+J039 - Akut tonsillit, ospecificerad
+9255
+R238W - Andra och ospecificerade hudförändringar
+9245
+G629 - Polyneuropati, ospecificerad
+9177
+F432 - Anpassningsstörning
+9171
+J030 - Streptokocktonsillit
+9118
+M706 - Trokanterbursit
+9030
+I693 - Sena effekter av cerebral infarkt
+8978
+J019 - Akut sinuit, ospecificerad
+8890
+E559 - D-vitaminbrist, ospecificerad
+8795
+F331 - Recidiverande depression, medelsvår episod
+8768
+M796B - Smärta ospecifik i axelled/överarm
+8641
+M170 - Primär gonartros, dubbelsidig
+8593
+R202 - Parestesi
+8563
+R522 - Annan kronisk smärta eller värk
+8501
+C619 - Malign tumör i prostata
+8352
+H109 - Konjunktivit, ospecificerad
+8088
+R329 - Ospecificerad urininkontinens
+8019
+R688 - Andra specificerade generella symtom och sjukdomstecken
+8010
+M255B - Ledvärk UNS i axelled
+7723
+L409 - Psoriasis, ospecificerad
+7610
+Z921 - Långtidsanvändning (och pågående användning) av blodförtunnande medel i den egna sjukhistorien
+7597
+F320 - Lindrig depressiv episod
+7432
+J029 - Akut faryngit, ospecificerad
+7334
+I872 - Venös insufficiens (kronisk) (perifer)
+7314
+R522B - Långvarig smärta, neuropatisk
+7135
+F510 - Icke organisk sömnlöshet
+7106
+N484 - Impotens av organisk orsak
+7007
+J159 - Bakteriell pneumoni, ospecificerad
+6950
+N309 - Cystit, ospecificerad
+6928
+Z027 - Utfärdande av vissa medicinska intyg
+6896
+F067 - Lindrig kognitiv störning
+6816
+I209 - Angina pectoris, ospecificerad
+6682
+M511K - Diskdegeneration/diskbråck med radikulit i ländryggen (ischias)
+6661
+M171 - Primär gonartros, ensidig eller UNS
+6610
+L600 - Nageltrång
+6535
+E117 - Diabetes mellitus typ 2-Med multipla komplikationer
+6509
+R730B - Diabetes, latent (prediabetes)
+6462
+R522A - Långvarig smärta, nociceptiv
+6424
+R065 - Munandning och snarkning
+6382
+M800 - Osteoporos efter menopausen med patologisk fraktur
+6363
+G409 - Epilepsi, ospecificerad
+6346
+H931 - Tinnitus
+6286
+J304 - Allergisk rinit, ospecificerad
+6208
+A469 - Rosfeber (erysipelas)
+6191
+K583 - Irritabel tarm med blandade tarmvanor [IBS-M]
+6057
+F019 - Vaskulär demens, ospecificerad
+6020
+R319 - Ospecificerad hematuri (blod i urinen)
+5918
+K449 - Diafragmabråck utan inklämning eller gangrän
+5891
+I350 - Aortastenos
+5875
+B029 - Bältros utan komplikation
+5837
+F438 - Andra specificerade reaktioner på svår stress
+5830
+M159 - Polyartros, ospecificerad
+5782
+H103 - Akut konjunktivit, ospecificerad
+5690
+G560 - Karpaltunnelsyndrom
+5683
+R634 - Onormal viktförlust
+5632
+R011 - Hjärtblåsljud, ospecificerat
+5628
+R119 - Illamående och kräkningar
+5621
+M255F - Ledvärk UNS i höftled
+5463
+M810 - Osteoporos efter menopausen
+5386
+F101 - Skadligt bruk av alkohol
+5377
+Z853 - Malign tumör i bröstkörtel i den egna sjukhistorien
+5375
+N184 - Kronisk njursvikt, stadium 4
+5321
+R139 - Sväljningssvårigheter (dysfagi)
+5304
+M796F - Smärta ospecifik i höftled/lårben
+5269
+Z866A - TIA (transitoriska ischemiska attacker) i den egna sjukhistorien (tillstånd som klassificeras under G45)
+5262
+R224 - Lokaliserad svullnad eller knöl i nedre extremitet
+5223
+M100H - Gikt i fotled/fot
+5174
+K625 - Blödning i anus och rektum
+5155
+K573 - Divertikel i tjocktarmen utan perforation eller abscess
+5138
+E112 - Diabetes mellitus typ 2-Med njurkomplikationer
+5135
+S934 - Distorsion i fotled
+5128
+F840 - Autism i barndomen
+5105
+T140A - Hematom, ospecificerat
+5077
+G209 - Parkinsons sjukdom
+5030
+J441 - Kroniskt obstruktiv lungsjukdom med akut exacerbation
+4975
+B373 - Candidainfektion i vulva och vagina (N77.1)
+4915
+I839 - Varicer i nedre extremiteterna utan uppgift om bensår eller inflammation
+4855
+G431 - Migrän med aura [klassisk migrän]
+4831
+H811 - Benign paroxysmal yrsel
+4828
+N394A - Trängningsinkontinens
+4803
+A099 - Gastroenterit och kolit av ospecificerad orsak
+4774
+R040 - Epistaxis
+4741
+M161 - Primär koxartros, ensidig eller UNS
+4729
+R559 - Svimning och kollaps
+4723
+L709 - Akne, ospecificerad
+4714
+L509 - Urtikaria, ospecificerad
+4676
+M485 - Kotkompression som ej klassificeras på annan plats
+4578
+L309A - Akut eksem
+4544
+L309X - Dermatit, ospecificerad
+4515
+L719 - Rosacea, ospecificerad
+4356
+E876 - Hypokalemi
+4341
+R521 - Kronisk behandlingsresistent smärta
+4308
+H669 - Mellanöreinflammation, ej specificerad som varig eller icke varig
+4257
+J310 - Kronisk rinit
+4253
+Z867A - Lungemboli i den egna sjukhistorien (tillstånd som klassificeras under I26)
+4249
+H010 - Blefarit
+4198
+G258 - Restless legs
+4198
+M511 - Disksjukdomar (diskbråck) i lumbalregionen och andra regioner med radikulopati (G55.1)
+4187
+I639 - Cerebral infarkt, ospecificerad
+4187
+R232 - Rodnad
+4164
+M480K - Central spinal stenos i ländryggen
+4146
+M653 - Trigger finger
+4122
+G309 - Alzheimers sjukdom, ospecificerad
+4065
+R339 - Urinretention (urinstämma)
+3999
+L210B - Seborroiskt eksem i hårbotten
+3986
+F334 - Recidiverande depression utan aktuella symtom
+3981
+T455 - Antikoagulantia
+3968
+G430 - Migrän utan aura [vanlig migrän]
+3966
+M751 - Rotator cuff-syndrom i skulderled
+3929
+M255D - Ledvärk UNS i handled/hand
+3926
+K581 - Irritabel tarm som domineras av diarré [IBS-D]
+3924
+Z950 - Förekomst av elektronisk kardiell anordning
+3914
+L299 - Pruritus, ospecificerad
+3891
+K922 - Gastrointestinal blödning, ospecificerad
+3859
+F102 - Alkoholberoende
+3855
+L829X - Seborroisk keratos, ospecificerad
+3847
+R520 - Akut smärta
+3839
+L010 - Impetigo
+3837
+M531 - Cervikobrakialt syndrom
+3824
+I251 - Aterosklerotisk hjärtsjukdom (angiografiskt, skintigrafiskt eller patologiskt-anatomiskt påvisad)
+3815
+J450 - Huvudsakligen allergisk astma
+3773
+K409 - Ensidigt eller ospecificerat ljumskbråck utan inklämning eller gangrän
+3772
+H409 - Glaukom, ospecificerat
+3772
+E611 - Järnbrist
+3741
+R609 - Ödem, ospecificerat
+3723
+E114D - Diabetes mellitus typ 2 med polyneuropati (distal symmetrisk)
+3698
+K210 - Gastroesofagal refluxsjukdom med esofagit
+3671
+M796 - Smärtor i extremitet
+3665
+J458 - Blandad astma
+3622
+B359 - Dermatofytos, ospecificerad
+3583
+H101X - Konjunktivit, allergisk UNS
+3568
+G250 - Essentiell tremor
+3566
+S602 - Kontusion på andra delar av handled och hand
+3535
+H000 - Hordeolum och andra djupa inflammationer i ögonlock
+3534
+R251 - Tremor, ospecificerad
+3482
+R221 - Lokaliserad svullnad eller knöl i halsregionen
+3480
+R000 - Takykardi UNS
+3475
+L309F - Handeksem UNS
+3428
+M069 - Reumatoid artrit, ospecificerad
+3412
+F401 - Social fobi
+3386
+F522 - Uteblivet genitalt gensvar
+3384
+S610 - Sårskada på finger (fingrar) utan skada på nagel
+3359
+M771 - Lateral epikondylit
+3340
+M201 - Hallux valgus (förvärvad)
+3326
+J300 - Vasomotorisk rinit
+3319
+H680 - Inflammation i örontrumpeten
+3311
+N943 - Premenstruellt spänningssyndrom [PMS]
+3310
+L400 - Psoriasis vulgaris
+3285
+O267 - Symfyseolys under graviditet, förlossning och under barnsängstiden
+3277
+I739B - Claudicatio intermittens
+3228
+I110 - Hypertensiv hjärtsjukdom med hjärtsvikt
+3228
+F330 - Recidiverande depression, lindrig episod
+3211
+S800 - Kontusion på knä
+3208
+I351 - Aortainsufficiens
+3199
+M255H - Ledvärk UNS i fotled/fot
+3196
+M791B - Myalgi UNS i axelled/överarm
+3189
+I501C - Vänsterhjärtsvikt med bevarad ejektionsfraktion (HFpEF)
+3171
+E114 - Diabetes mellitus typ 2-Med neurologiska komplikationer
+3167
+F900C - ADD
+3165
+K519 - Ulcerös kolit, ospecificerad
+3151
+B009 - Herpes simplex-infektion, ospecificerad
+3124
+M160 - Primär koxartros, dubbelsidig
+3114
+Z768 - Kontakt med hälso- och sjukvården under andra specificerade omständigheter
+3086
+M501 - Disksjukdom (diskbråck) i halskotpelaren med radikulopati
+3068
+R262 - Gångsvårigheter som ej klassificeras på annan plats
+3063
+L030C - Paronyki UNS
+3062
+D529 - Folatbristanemi, ospecificerad
+3029
+I951 - Ortostatisk hypotoni
+3021
+B370 - Candidainfektion i munnen
+3000
+Z000 - Allmän medicinsk undersökning av person utan besvär eller utan att diagnos registrerats
+2989
+I501A - Vänsterhjärtsvikt med nedsatt ejektionsfraktion (HFrEF)
+2950
+G933 - Trötthetssyndrom efter virusinfektion
+2935
+F319 - Bipolär sjukdom, ospecificerad
+2926
+O219 - Graviditetskräkningar, ospecificerade
+2888
+G359 - Multipel skleros
+2882
+E109 - Diabetes mellitus typ 1-Utan komplikationer
+2871
+H571 - Ögonsmärtor
+2865
+N199 - Njursvikt, ospecificerad som akut eller kronisk
+2861
+M859 - Rubbning i bentäthet och benstruktur, ospecificerad
+2860
+R799 - Onormal blodkemi, ospecificerad
+2856
+M190B - Primär artros i axelled
+2842
+H903 - Sensorineural hörselnedsättning, dubbelsidig
+2840
+N200 - Njursten
+2798
+F171 - Skadligt bruk av tobak
+2796
+Z854J - Malign tumör i prostata i den egna sjukhistorien (tillstånd som klassificeras under C61)
+2781
+I340 - Mitralisinsufficiens
+2765
+S060 - Hjärnskakning
+2762
+M796C - Smärta ospecifik i armbåge/underarm
+2756
+F001 - Demens vid Alzheimers sjukdom med sen debut (G30.1)
+2750
+L219 - Seborroisk dermatit, ospecificerad
+2745
+H650 - Akut serös mellanöreinflammation
+2743
+G301 - Alzheimers sjukdom med sen debut
+2734
+S400 - Kontusion på skuldra och överarm
+2729
+R220 - Lokaliserad svullnad eller knöl i huvudregionen
+2721
+N394C - Blandinkontinens (samtidig förekomst av ansträngnings- och trängningsinkontinens)
+2718
+T141A - Bett av djur, ospecificerat
+2713
+B351 - Nagelsvamp
+2709
+K582 - Irritabel tarm som domineras av förstoppning [IBS-C]
+2703
+L659 - Icke ärrbildande håravfall, ospecificerat
+2702
+D225 - Melanocytnevus på bålen
+2695
+N394 - Annan specificerad urininkontinens
+2691
+F418 - Andra specificerade ångesttillstånd
+2691
+I119 - Hypertensiv hjärtsjukdom utan hjärtsvikt
+2680
+G459 - Transitorisk cerebral ischemisk attack, ospecificerad
+2651
+L900 - Lichen sclerosus et atrophicus
+2630
+M940 - Tietzes syndrom
+2626
+R104 - Andra och ospecificerade smärtor i buken
+2622
+Z867B - Djup ventrombos i den egna sjukhistorien (tillstånd som klassificeras under I80.2)
+2567
+N109 - Akut tubulo-interstitiell nefrit
+2539
+J229 - Ospecificerad akut infektion i nedre luftvägarna
+2521
+M419 - Skolios, ospecificerad
+2517
+R522C - Långvarig smärta utan känd orsak
+2510
+T140D - Icke giftigt insektsbett, ospecificerat
+2505
+H100 - Mukopurulent konjunktivit
+2501
+R223 - Lokaliserad svullnad eller knöl i övre extremitet
+2497
+F845 - Aspergers syndrom
+2491
+Z733 - Stress som ej klassificeras på annan plats
+2485
+F429 - Tvångssyndrom, ospecificerat
+2483
+Z980 - Tillstånd med tarm-by-pass eller tarmanastomos
+2467
+J451 - Icke allergisk astma
+2424
+T149 - Skada, ospecificerad
+2409
+R119B - Kräkningar
+2400
+N459 - Orkit, epididymit och epididymo-orkit utan abscess
+2382
+E890 - Hypotyreos efter kirurgiska och medicinska ingrepp
+2351
+R458 - Andra symtom och sjukdomstecken avseende känsloläget
+2347
+N920 - Riklig och frekvent menstruation med regelbunden menstruationscykel
+2341
+E789 - Rubbning i omsättningen av lipoprotein, ospecificerad
+2290
+H819 - Rubbning i balansapparatens funktion, ospecificerad
+2271
+M796E - Smärta, ospecifik i bäckenet
+2267
+U099 - Postinfektiöst tillstånd efter covid-19 (post-covid)
+2243
+S202 - Kontusion på bröstkorgen
+2235
+E782X - Blandad hyperlipidemi, ospecificerad
+2233
+Z139 - Riktad hälsokontroll, ospecificerad
+2230
+S600 - Kontusion på finger (fingrar) utan skada på nagel
+2225
+M773 - Kalkaneussporre (hälsporre)
+2223
+I499 - Hjärtarytmi, ospecificerad
+2208
+E538 - Brist på andra specificerade vitaminer i B-gruppen
+2200
+I694 - Sena effekter av cerebrovaskulär sjukdom, ej specificerad som blödning eller infarkt
+2199
+R129 - Halsbränna
+2190
+I481 - Persisterande förmaksflimmer
+2190
+F413 - Andra blandade ångesttillstånd
+2183
+K802 - Gallsten utan kolecystit
+2176
+M654 - Radial handledstenosynovit [de Quervains sjukdom]
+2172
+Z867C - Cerebral insult utan bestående men i den egna sjukhistorien (tillstånd som klassificeras under I60-I64)
+2160
+L721 - Trikilemmal cysta
+2118
+H041 - Tårkörtelsjukdom
+2109
+R398 - Andra och ospecificerade symtom och sjukdomstecken från urinorganen
+2104
+N182 - Kronisk njursvikt, stadium 2
+2100
+N926 - Oregelbunden menstruation, ospecificerad
+2097
+L405 - Psoriasis med ledsjukdom (M07.0-M07.3, M09.0)
+2096
+K579 - Divertikel i tarmen, ospecificerad lokalisation, utan perforation eller abscess
+2092
+K760 - Fettlever som ej klassificeras på annan plats
+2080
+Q796 - Ehlers-Danlos syndrom
+2075
+R222 - Lokaliserad svullnad eller knöl på bålen
+2051
+N768B - Bakteriell vaginos
+2046
+M459 - Ankyloserande spondylit [Bechterews sjukdom]
+2041
+Z720A - Rökning
+2028
+F102X - Alkoholberoende, ospecificerat
+2019
+R159 - Fecesinkontinens
+2011
+M791F - Myalgi i höftled/lårben
+1987
+F322 - Svår depressiv episod utan psykotiska symtom
+1984
+E113A - Diabetes mellitus typ 2 med bakgrundsretinopati
+1976
+R418A - Lindrig kognitiv störning, subjektiv
+1969
+H729 - Perforation av trumhinnan, ospecificerad
+1954
+D472 - Monoklonal gammopati av obestämd signifikans [MGUS]
+1933
+R252 - Kramp och spasm
+1932
+R600 - Lokaliserat ödem
+1923
+D239 - Ospecificerad lokalisation av andra benigna tumörer i huden
+1917
+M779 - Entesopati, ospecificerad
+1913
+F009 - Demens vid Alzheimers sjukdom, ospecificerad (G30.9)
+1911
+H360 - Diabetisk retinopati (E10-E14) med gemensam fjärdeposition .3)
+1908
+R073 - Andra bröstsmärtor
+1905
+K602 - Analfissur, ospecificerad
+1898
+J329 - Kronisk sinuit, ospecificerad
+1876
+R619 - Hyperhidros, ospecificerad
+1875
+K509 - Crohns sjukdom, ospecificerad
+1873
+R149 - Flatulens och besläktade tillstånd
+1868
+K429 - Navelbråck utan inklämning eller gangrän
+1864
+K900 - Celiaki
+1836
+D229 - Ospecificerad lokalisation av melanocytnevus
+1834
+M720 - Dupuytrens kontraktur
+1831
+M766 - Akillestendinit
+1828
+N479B - Fimosis
+1827
+S836 - Distorsion i andra och ospecificerade delar av knä
+1816
+I500 - Högerhjärtsvikt
+1815
+D229C - Intradermalt pigmentnevus med ospecificerad lokalisation
+1815
+M510K - Diskdegeneration/diskbråck med myelopati i ländryggen
+1811
+D239D - Dermatofibrom med ospecificerad lokalisation
+1810
+H911 - Presbyakusi
+1805
+Z039 - Observation för ospecificerad misstänkt sjukdom eller ospecificerat misstänkt tillstånd som uteslutits och avskrivits
+1800
+E116 - Diabetes mellitus typ 2-Med andra specificerade komplikationer
+1798
+N946 - Dysmenorré, ospecificerad
+1789
+M702 - Olekranonbursit
+1784
+L979 - Bensår som ej klassificeras på annan plats
+1776
+B360 - Pityriasis versicolor
+1776
+J409 - Bronkit ospecificerad som akut eller kronisk
+1772
+C509 - Ospecificerad lokalisation av malign tumör i bröstkörtel
+1770
+M548 - Annan specificerad ryggvärk
+1755
+L500 - Allergisk urtikaria
+1754
+F603 - Emotionellt instabil personlighetsstörning
+1750
+M543 - Ischias
+1744
+Z038 - Observation för andra misstänkta sjukdomar och tillstånd som uteslutits och avskrivits
+1740
+S300 - Kontusion på nedre delen av ryggen och bäckenet
+1719
+S636 - Distorsion i finger (fingrar) eller tumme
+1717
+R739 - Hyperglykemi, ospecificerad
+1716
+M139 - Artrit, ospecificerad
+1711
+F002 - Demens vid Alzheimers sjukdom, atypisk eller blandad typ (G30.8)
+1705
+A600 - Urogenital infektion med herpes simplex-virus
+1701
+S903 - Kontusion på andra och ospecificerade delar av fot
+1696
+E871B - Hyponatremi
+1694
+M674D - Ganglion i handled/hand
+1693
+I781 - Nevus, icke neoplastiskt
+1691
+M059 - Seropositiv reumatoid artrit, ospecificerad
+1689
+L029 - Kutan abscess, furunkel och karbunkel, ospecificerad.
+1689
+F438W - Andra specificerade reaktioner på svår stress än utmattningssyndrom
+1687
+R309 - Smärta vid vattenkastning, ospecificerad
+1685
+J010 - Akut maxillarsinuit
+1678
+H905 - Sensorineural hörselnedsättning, ospecificerad
+1668
+N639 - Ospecificerad knuta i bröstkörtel
+1646
+F454 - Kroniskt somatoformt smärtsyndrom
+1645
+N811 - Cystocele hos kvinna
+1639
+N809 - Endometrios, ospecificerad
+1624
+G478 - Andra specificerade sömnstörningar
+1618
+I139 - Hypertensiv hjärt- och njursjukdom, ospecificerad
+1617
+H259 - Senil katarakt, ospecificerad
+1611
+L710 - Perioral dermatit
+1604
+F841 - Atypisk autism
+1603
+A090 - Annan och ospecificerad gastroenterit och kolit av infektiös orsak
+1587
+M750 - Adhesiv kapsulit i skulderled
+1586
+S223 - Fraktur på revben
+1581
+J068 - Annan specificerad akut övre luftvägsinfektion med multipel lokalisation
+1581
+L700 - Acne vulgaris
+1577
+F509 - Ätstörning, ospecificerad
+1572
+Z712 - Person som söker för att få undersökningsfynd förklarade
+1566
+I501 - Vänsterhjärtsvikt
+1558
+E282 - Polycystiska ovarier
+1553
+I959 - Hypotoni, ospecificerad
+1544
+M190D - Primär artros övrig i handled/hand
+1541
+R208 - Andra och ospecificerade rubbningar av hudkänseln
+1539
+M546 - Smärtor i bröstryggen
+1528
+H539 - Synrubbning, ospecificerad
+1524
+R682 - Muntorrhet, ospecificerad
+1516
+I712 - Torakalt aortaaneurysm, icke brustet
+1512
+R490 - Dysfoni
+1510
+B980 - Helicobacter pylori [H.pylori] som orsak till sjukdomar som klassificeras på annan plats
+1500
+E784 - Andra specificerade hyperlipidemier
+1495
+R001 - Bradykardi UNS
+1493
+K921 - Melena
+1490
+M479K - Spondylos UNS i ländryggen
+1470
+Z955 - Förekomst av angioplastiskt koronarimplantat och koronargraft
+1461
+S635 - Distorsion i handled
+1454
+I359 - Aortaklaffsjukdom, ospecificerad
+1445
+Z718 - Annan specificerad rådgivning
+1439
+Z013 - Undersökning av blodtryck av person utan besvär eller utan att diagnos registrerats
+1434
+H651 - Annan akut icke varig mellanöreinflammation
+1427
+J303 - Annan allergisk rinit
+1411
+I471 - Paroxysmal supraventrikulär takykardi
+1407
+E890A - Hypotyreos efter kirurgisk terapi
+1403
+I730 - Raynauds syndrom
+1399
+M189 - Artros i första karpometakarpalleden, ospecificerad
+1395
+B351X - Nagelsvamp, ospecificerad
+1393
+J451A - Asthma bronchiale, icke allergisk, akut, infektionsutlöst
+1386
+H549 - Ospecificerad synnedsättning (i båda ögonen)
+1380
+F518 - Andra specificerade icke-organiska sömnstörningar
+1377
+M791G - Myalgi UNS i knäled/underben
+1368
+S900 - Kontusion på fotled
+1363
+D219D - Fibrom med ospecificerad lokalisation
+1363
+Z951 - Förekomst av aortokoronar-bypass-graft
+1357
+Z038W - Observation/utredning för misstänkt annan specificerad sjukdom som uteslutits och avskrivits
+1350
+Z966F - Förekomst av ortopediskt ledimplantat i höftled
+1343
+E038 - Annan specificerad hypotyreos
+1341
+F709 - Lindrig psykisk utvecklingsstörning-Utan uppgift om beteendestörning
+1327
+B353 - Dermatofytos på fot
+1327
+K640 - Hemorrojder av första graden
+1317
+R700 - Förhöjd sänkningsreaktion
+1316
+E659 - Lokaliserad fetma
+1316
+I501B - Vänsterhjärtsvikt med lätt nedsatt ejektionsfraktion (HFmrEF)
+1302
+S500 - Kontusion på armbåge
+1300
+I269 - Lungemboli utan uppgift om akut cor pulmonale
+1299
+B354 - Dermatofytos på bålen
+1289
+E112A - Diabetes mellitus typ 2 med incipient nefropati
+1284
+R590 - Lokaliserad lymfkörtelförstoring
+1282
+E059 - Tyreotoxikos, ospecificerad
+1278
+T159 - Främmande kropp i ögats yttre delar med ospecificerad lokalisation
+1276
+F529 - Ospecificerad sexuell dysfunktion, ej orsakad av organisk störning eller sjukdom
+1275
+N819 - Genital prolaps hos kvinna, ospecificerad
+1263
+R599 - Lymfkörtelförstoring, ospecificerad
+1262
+M100 - Idiopatisk gikt
+1258
+N921 - Riklig och frekvent menstruation med oregelbunden menstruationscykel
+1254
+G500 - Trigeminusneuralgi
+1254
+C911 - Kronisk lymfatisk leukemi av B-cellstyp [B-KLL]
+1250
+J180 - Bronkopneumoni, ospecificerad
+1240
+Z739 - Problem som har samband med svårigheter att kontrollera livssituationen, ospecificerat
+1239
+B379 - Candidainfektion, ospecificerad
+1237
+J339 - Näspolyp, ospecificerad
+1235
+I495 - Sick sinus syndrome
+1230
+D180X - Hemangiom, ospecificerat
+1222
+Z953 - Förekomst av hjärtklaff av främmande biologiskt material
+1221
+M190H - Primär artros i fotled/fot
+1215
+Z720 - Tobaksbruk
+1213
+E116D - Diabetes mellitus typ 2 med (diabetiskt) fotsår
+1211
+R070 - Strupsmärtor
+1202
+J157 - Pneumoni orsakad av Mycoplasma pneumoniae
+1191
+B869 - Skabb
+1191
+L309G - Underbenseksem UNS
+1190
+I493 - Prematur depolarisation av kammaren
+1187
+I691 - Sena effekter av intracerebral blödning
+1184
+F332 - Recidiverande depression, svår episod utan psykotiska symtom
+1180
+E781 - Isolerad hypertriglyceridemi
+1177
+F422 - Tvångstankar med tvångshandlingar
+1172
+M722 - Plantar fascial fibromatos
+1166
+I702 - Ateroskleros i extremitetsartärer
+1161
+D171 - Lipom i hud och subkutan vävnad på bålen
+1155
+E112X - Diabetes mellitus typ 2 med njurkomplikation UNS
+1153
+I698 - Sena effekter av andra och ospecificerade cerebrovaskulära sjukdomar
+1151
+R452 - Olycklighetskänsla
+1143
+I714 - Bukaortaaneurysm, icke brustet
+1142
+R730A - Glukostolerans, nedsatt (IGT)
+1141
+L732 - Hidradenitis suppurativa
+1141
+T793 - Posttraumatisk sårinfektion som ej klassificeras på annan plats
+1139
+L208C - Barneksem UNS
+1139
+E210 - Primär hyperparatyreoidism
+1132
+M809 - Ospecificerad osteoporos med patologisk fraktur
+1131
+R740 - Förhöjning av transaminaser och mjölksyredehydrogenaser (LDH)
+1122
+M190 - Primär artros i andra leder
+1117
+D500 - Järnbristanemi sekundär till kronisk blodförlust
+1117
+Z850C - Malign tumör i tjocktarmen och rektosigmoidala gränszonen i den egna sjukhistorien (tillstånd som klassificeras under C18, C19)
+1113
+Z850 - Malign tumör i mag-tarmkanalen i den egna sjukhistorien
+1111
+M712 - Synovialcysta i poplitealrummet [Bakercysta]
+1105
+S700 - Kontusion på höft
+1101
+H659 - Icke varig mellanöreinflammation, ej specificerad som akut eller kronisk
+1099
+J351 - Hypertrofi av tonsiller
+1089
+M204 - Hammartå (förvärvad)
+1083
+Z966G - Förekomst av ortopediskt ledimplantat i knäled
+1078
+H269 - Katarakt, ospecificerad
+1076
+G912 - Normaltryckshydrocefalus
+1075
+M488K - Lateral spinal stenos (rotkanalstenos) i ländryggen
+1074
+H113 - Blödning i bindehinnan
+1073
+L729 - Follikulär cysta i hud och underhud, ospecificerad
+1068
+G819 - Hemipares, ospecificerad
+1064
+Z769 - Kontakt med hälso- och sjukvården under ospecificerade omständigheter
+1063
+N429 - Sjukdom i prostata, ospecificerad
+1061
+N185 - Kronisk njursvikt, stadium 5
+1056
+Z858C - Malign melanom och andra maligna tumörer i huden i den egna sjukhistorien (tillstånd som klassificeras under C43-C44)
+1048
+Z321 - Graviditet bekräftad
+1045
+I442 - Atrioventrikulärt block, totalt
+1043
+L088W - Andra lokala infektioner i hud och underhud
+1042
+S460 - Skada på muskel och sena i rotationskapsel (rotatorkuff) i skulderled
+1037
+M431 - Spondylolistes
+1033
+M479 - Spondylos, ospecificerad
+1033
+I800 - Flebit och tromboflebit i nedre extremiteternas ytliga kärl
+1033
+E875 - Hyperkalemi
+1028
+F072 - Postkontusionellt syndrom
+1020
+D696 - Trombocytopeni, ospecificerad
+1012
+M795 - Kvarvarande främmande kropp i mjukvävnad
+1008
+H810 - Ménières sjukdom
+1004
+K641 - Hemorrojder av andra graden
+1002

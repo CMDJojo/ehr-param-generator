@@ -1,0 +1,60 @@
+// Frekvensfil för "extra questions". Notera att frekvensen är uttryckt i promille. Notera också
+// att dessa inte summerar till 1000, men det var datan jag fick.
+R529 - Smärta eller värk
+43
+G479 - Sömnstörning
+31
+R104X - Buksmärtor
+28
+R539 - Sjukdomskänsla och trötthet
+27
+R059 - Hosta UNS
+24
+K590 - Obstipation
+16
+M549 - Ryggvärk
+15
+R238 - Andra och ospecifierade hudförändringar
+12
+R519 - Huvudvärk
+11
+R060 - Dyspné
+11
+M791 - Myalgi
+10
+M545 - Lumbago
+9
+R219 - Ospecifierade hudutslag
+9
+K219 - Gastroesofageal refluxsjukdom utan esofagit
+9
+R002 - Hjärtklappning
+8
+R229 - Lokaliserad svullnad eller knöl
+7
+K309 - Dyspepsi
+7
+H612 - Vaxpropp
+6
+L829 - Seborroisk keratos
+6
+L309 - Dermatit
+5
+R391 - Andra miktionssvårigheter
+5
+K297 - Gastrit
+5
+R600C - Underbensödem UNS
+5
+L209 - Atopiskt eksem
+5
+L298D - Lokaliserad klåda
+5
+M796G - Smärta ospecifik i knäled/underben
+5
+L570 - Aktinisk keratos
+5
+R030 - Förhöjt blodtryck utan hypertonidiagnos
+5
+R194 - Förändrade avföringsvanor
+5

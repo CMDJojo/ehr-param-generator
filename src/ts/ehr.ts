@@ -26,11 +26,14 @@ export class EHR {
   }
 
   addRandomVisit(): void {
-    const prng = Prng.randomSeed()
-    this.visits.push(new Visit(prng))
+    this.visits.push(this.randomVisit())
   }
 
   regenerateVisit(index: number): void {
-    this.visits[index] = new Visit(Prng.randomSeed())
+    this.visits[index] = this.randomVisit()
+  }
+
+  randomVisit(): Visit {
+    return new Visit(Prng.randomSeed(), this.patient.age)
   }
 }

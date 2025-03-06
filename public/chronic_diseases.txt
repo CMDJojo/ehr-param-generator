@@ -1,0 +1,94 @@
+// Frekvensfil för "chronic diseases". Notera att frekvensen är uttryckt i promille. Notera också
+// att dessa inte summerar till 1000, men det var datan jag fick.
+I109 - Essentiell hypertoni
+123
+E785 - Hyperlipidemi
+45
+F419 - Ångesttillstånd
+34
+G479 - Sömnstörning
+31
+E119 - Diabetes mellitus typ 2-Utan komplikationer
+27
+F412 - Blandade ångest-och depressionstillstånd
+25
+E039 - Hypotyreos
+25
+J459 - Astma
+23
+I489 - Förmaksflimmer och förmaksfladder
+16
+E669 - Fetma
+15
+I259 - Kronisk ischemisk hjärtsjukdom
+14
+N409 - Prostataförstoring
+12
+M179 - Gonartros
+12
+F519 - Icke organisk sömnstörning
+11
+J449 - Kronisk obstruktiv lungsjukdom
+11
+F329 - Depressiv episod
+10
+I509 - Hjärtinsufficiens
+10
+T784 - Allergi UNS
+8
+M544 - Lumbago med ischias
+8
+H919 - Hörselnedsättning och dövhet
+8
+F339 - Recidiverande depression
+7
+I480 - Paroxysmalt förmaksflimmer
+7
+E660 - Fetma orsakad av kaloriöverskott
+7
+K309 - Dyspepsi
+7
+G439 - Migrän
+6
+F411 - Generaliserat ångestsyndrom
+6
+M542 - Cervikalgi
+6
+M353 - Polymyalgia reumatica
+6
+I252 - Gammal hjärtinfarkt
+6
+F321 - Medelsvår depressiv episod
+6
+N183 - Kronisk njursvikt, stadium 3
+6
+E782 - Blandad hyperlipidemi
+6
+N951 - Tillstånd i samband med klimakteriet
+5
+F900B - ADHD
+5
+N952 - Atrofisk vaginit efter menopausen
+5
+M819 - Osteoporos
+5
+L209 - Atopiskt eksem
+5
+G473 - Sömnapnésyndrom
+5
+G442 - Spänningshuvudvärk
+5
+M169 - Koxartros
+5
+K649 - Hemorrojder
+5
+I482 - Kroniskt förmaksflimmer
+4
+F410 - Paniksyndrom
+4
+M109 - Gikt
+4
+F039 - Ospecificerad demens
+4
+M480 - Spinal stenos
+4

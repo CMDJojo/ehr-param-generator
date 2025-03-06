@@ -1,3 +1,5 @@
+import { loadFreqFile } from './file'
+
 export function samplePoisson(u: number, lambda: number): number {
   let x = 0
   let p = Math.exp(-lambda)
@@ -22,7 +24,9 @@ export class CustomDiscreteDistribution<A> {
   checkCdf() {
     const { prob } = this.cdf[this.cdf.length - 1]
     const delta = Math.abs(prob - 1)
-    if (delta > 0.02) {
+    if (isNaN(prob)) {
+      throw new Error('Max prob NaN')
+    } else if (delta > 0.02) {
       throw new Error(`Last elements CDF should be 1, but is ${prob}`)
     } else if (delta > 0.01) {
       console.warn(`CDF far from 1, last prob is ${prob}`)
@@ -55,6 +59,18 @@ export class CustomDiscreteDistribution<A> {
       cdf.push({ prob: cprob, elem })
     }
     return new CustomDiscreteDistribution(cdf)
+  }
+
+  static fromFreq<A>(freqs: { freq: number; elem: A }[]): CustomDiscreteDistribution<A> {
+    const sum = freqs.reduce((ps, item) => ps + item.freq, 0)
+    const pmf = freqs.map((e) => ({ probMass: e.freq / sum, elem: e.elem }))
+    console.log(pmf)
+    return this.fromPmf(pmf)
+  }
+
+  static async fromFreqFile(file: string): Promise<CustomDiscreteDistribution<string>> {
+    const freqs = await loadFreqFile(file)
+    return this.fromFreq(freqs)
   }
 
   sample(u: number): A {

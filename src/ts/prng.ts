@@ -30,6 +30,18 @@ export class Prng {
     return dist.sample(this.sampleUniform())
   }
 
+  sampleStrangeNegBin1(p: number): number {
+    console.log(`p: ${p}`)
+    if (this.ugen() > p) {
+      return 0
+    }
+    let x = 1
+    while (this.ugen() < p / 2) {
+      x++
+    }
+    return x
+  }
+
   static randomSeed(): Prng {
     const [a, b, c, d] = randomSeed()
     return new Prng(sfc32(a, b, c, d))
