@@ -17,7 +17,7 @@ defineProps<{ visit: Visit }>()
     <strong>{{ visit.mainDiagnosis }}</strong>
   </p>
   <p v-if="visit.extraQuestionDiagnoses.length == 0 && visit.chronicDiseaseDiagnoses.length == 0">
-    No extra question-diagnoses nor any chronic disease diagnoses
+    No extra question-diagnoses nor any chronic disease diagnoses.
   </p>
   <template v-else>
     <template v-if="visit.extraQuestionDiagnoses.length">
