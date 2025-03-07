@@ -30,13 +30,12 @@ export class Prng {
     return dist.sample(this.sampleUniform())
   }
 
-  sampleStrangeNegBin1(p: number): number {
-    console.log(`p: ${p}`)
+  sampleStrangeNegBin1(p: number, reduction: number): number {
     if (this.ugen() > p) {
       return 0
     }
     let x = 1
-    while (this.ugen() < p / 2) {
+    while (this.ugen() < p * reduction) {
       x++
     }
     return x

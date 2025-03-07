@@ -17,13 +17,13 @@ export class Visit {
     this.mainDiagnosis = prng.sampleCustom(fileDist.mainDiagnoses)
 
     const extraBase = extraQuestionBaseProb(patientAge)
-    const extras = prng.sampleStrangeNegBin1(extraBase)
+    const extras = prng.sampleStrangeNegBin1(extraBase, 0.2)
     for (let i = 0; i < extras; i++) {
       this.extraQuestionDiagnoses.push(prng.sampleCustom(fileDist.extraQuestions))
     }
 
     const chronicBase = chronicalDiseaseBaseProb(patientAge)
-    const chronicals = prng.sampleStrangeNegBin1(chronicBase)
+    const chronicals = prng.sampleStrangeNegBin1(chronicBase, 0.5)
     for (let i = 0; i < chronicals; i++) {
       this.chronicDiseaseDiagnoses.push(prng.sampleCustom(fileDist.chronicDiseases))
     }
